@@ -17,6 +17,9 @@ Feel free to reach out if you'd like to chat about tech or work on any exciting 
      <a href="https://twitter.com/Star_ch1">
     <img src="https://img.shields.io/badge/Twitter-Star%20_ch1-0e76a8" alt"my Linkedin" />
    </a>
+  <a href="https://about.me/starch1">
+    <img src="https://img.shields.io/badge/AllMyLinks-Lucas%20Bernardo-0e76a8" alt"my Linkedin" />
+   </a>
    
 </div>
 
