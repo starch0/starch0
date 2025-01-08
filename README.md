@@ -31,6 +31,6 @@ Feel free to reach out if you'd like to chat about tech or work on any exciting 
 <h2 align="left">Minor skills / learning</h2>
 > Javascript
 Docker
-PSQL
+PostgreSQL
 SQLIte3
 Git
