@@ -33,3 +33,19 @@ Docker
 PostgreSQL
 SQLIte3
 Git
+<h2 align="left">Currently Working On</h2>
+
+<div align="left">
+  <ul>
+    <li>
+      <a href="https://github.com/starch0/whatsapp-assitent-bot">
+        <strong>WhatsApp Assistant Bot</strong>
+      </a> – A bot to automate WhatsApp interactions using Elixir.
+    </li>
+    <li>
+      <a href="https://github.com/starch0/elixir_bittorrent">
+        <strong>Elixir Bittorrent</strong>
+      </a> – A bittorrent using Elixir.
+    </li>
+  </ul>
+</div>
