@@ -38,7 +38,7 @@ Git
 <div align="left">
   <ul>
     <li>
-      <a href="https://github.com/starch0/whatsapp-assitent-bot">
+      <a href="https://github.com/starch0/whatsapp-assistent">
         <strong>WhatsApp Assistant Bot</strong>
       </a> – A bot to automate WhatsApp interactions using Elixir.
     </li>
