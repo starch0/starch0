@@ -33,7 +33,8 @@ Docker
 PostgreSQL
 SQLIte3
 Git
-<h2 align="left">Currently Working On</h2>
+Rust
+<h2 align="left">Currently working on</h2>
 
 <div align="left">
   <ul>
