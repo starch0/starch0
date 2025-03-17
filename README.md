@@ -25,16 +25,16 @@ I like to write about things i found interesting.
 ###
 
 <h2 align="left">My major skills are</h2>
-> Elixir Python 
+> Elixir | Python 
 
 <h2 align="left">Minor skills / learning</h2>
-> Javascript
-Docker
-PostgreSQL
-SQLIte3
-Git
-Rust
-C
+> Javascript |
+Docker |
+PostgreSQL |
+SQLIte3 |
+Git |
+Rust |
+C |
 <h2 align="left">Currently working on</h2>
 
 <div align="left">
