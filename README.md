@@ -33,7 +33,7 @@ PostgreSQL |
 SQLIte3 |
 Git |
 Rust |
-C |
+C/C# |
 <h2 align="left">Currently working on</h2>
 
 <div align="left">
