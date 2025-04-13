@@ -51,8 +51,8 @@ C/C# |
    <li>
     <a href="https://github.com/easy-meetups">
      <strong> Easy Meet-Ups </strong>
-     A app to make the life of awkward people easier.
     </a>
+    A app to make the life of awkward people easier.
    </li>
   </ul>
 </div>
