@@ -48,5 +48,11 @@ C/C# |
         <strong>Elixir Bittorrent</strong>
       </a> – A bittorrent using Elixir.
     </li>
+   <li>
+    <a href="https://github.com/easy-meetups">
+     <strong> Easy Meet-Ups </strong>
+     A app to make the life of awkward people easier.
+    </a>
+   </li>
   </ul>
 </div>
