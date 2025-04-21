@@ -1,27 +1,29 @@
  ## Hey. Im Bernardo
-Im a tech enthusiant from Brazil.
-I am currently pursuing a degree in analysis and systems development. I absolutely love diving into automate things, solving problems, make machine do some tricks.
-I like to write about things i found interesting. 
-I like to learn by doing(or trying) things. 
-<h2 align="left">Find me on</h2>
-
-<div align="left">
- 
+ <div align="left">
   <a href="https://www.linkedin.com/in/lucas-bernardo-12736428a/">
-    <img src="https://img.shields.io/badge/Linkedin-Lucas%20Bernardo-0e76a8" alt"my Linkedin" />
+    <img src="https://img.shields.io/badge/Linkedin-Lucas%20Bernardo-0e76a8" />
    </a>
      <a href="https://dev.to/starch1">
-    <img src="https://img.shields.io/badge/Dev.to-Star%20ch1-0e76a8" alt"my Linkedin" />
+    <img src="https://img.shields.io/badge/Dev.to-Star%20ch1-0e76a8" />
    </a>
       </a>
      <a href="https://twitter.com/Star_ch1">
-    <img src="https://img.shields.io/badge/Twitter-Star%20_ch1-0e76a8" alt"my Linkedin" />
+    <img src="https://img.shields.io/badge/Twitter-Star%20_ch1-0e76a8" />
    </a>
-  <a href="https://about.me/starch1">
-    <img src="https://img.shields.io/badge/AllMyLinks-Lucas%20Bernardo-0e76a8" alt"my Linkedin" />
-   </a>
-   
+  <a href="https://allmylinks.com/brnrd-dev">
+    <img src="https://img.shields.io/badge/AllMyLinks-Lucas%20Bernardo-0e76a8" />
+  <a href="https://wakatime.com/@66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac">
+    <img 
+      src="https://wakatime.com/badge/user/66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac.svg" 
+      alt="wakatime" 
+      />
+  </a>
 </div>
+
+Im a tech enthusiant from Brazil.
+I like to write about things i found interesting(dev.to / medium). 
+I like to learn by doing(or trying) things. 
+
 
 ###
 
@@ -35,6 +37,8 @@ SQLIte3 |
 Git |
 Rust |
 C/C# |
+Typescript |
+
 <h2 align="left">Currently working on</h2>
 
 <div align="left">
