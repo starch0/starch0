@@ -2,6 +2,7 @@
 Im a tech enthusiant from Brazil.
 I am currently pursuing a degree in analysis and systems development. I absolutely love diving into automate things, solving problems, make machine do some tricks.
 I like to write about things i found interesting. 
+I like to learn by doing(or trying) things. 
 <h2 align="left">Find me on</h2>
 
 <div align="left">
