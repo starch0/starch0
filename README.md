@@ -12,9 +12,9 @@
    </a>
   <a href="https://allmylinks.com/brnrd-dev">
     <img src="https://img.shields.io/badge/AllMyLinks-Lucas%20Bernardo-0e76a8" />
-  <a href="https://wakatime.com/@66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac">
+  <a href="https://wakatime.com/@0afa7e7c-b60b-46e1-9d18-f8b76233aa78">
     <img 
-      src="https://wakatime.com/badge/user/66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac.svg" 
+      src="https://wakatime.com/badge/user/0afa7e7c-b60b-46e1-9d18-f8b76233aa78.svg" 
       alt="wakatime" 
       />
   </a>
