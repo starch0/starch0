@@ -2,7 +2,7 @@
  <div align="left">
   <a href="https://www.linkedin.com/in/lucas-bernardo-12736428a/">
     <img src="https://img.shields.io/badge/Linkedin-Lucas%20Bernardo-0e76a8" />
-   </a>
+   </a> 
      <a href="https://dev.to/starch1">
     <img src="https://img.shields.io/badge/Dev.to-Star%20ch1-0e76a8" />
    </a>
@@ -20,9 +20,9 @@
   </a>
 </div>
 
-Im a tech enthusiant from Brazil.
-I like to write about things i found interesting(dev.to / medium). 
-I like to learn by doing(or trying) things. 
+Im a tech enthusiant from Brazil.  
+I like to write about things i found interesting(dev.to / medium).   
+I like to learn by doing(or trying) things.   
 
 
 ###
