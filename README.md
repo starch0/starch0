@@ -37,7 +37,7 @@ SQLIte3 |
 Git |
 Rust |
 C/C# |
-Typescript |
+Typescript | React
 
 <h2 align="left">Currently working on</h2>
 
