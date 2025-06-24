@@ -28,7 +28,7 @@ I like to learn by doing(or trying) things.
 ###
 
 <h2 align="left">My major skills are</h2>
-> Elixir | Javascript | Python 
+> Elixir | Typescript | Python 
 
 <h2 align="left">Minor skills / learning</h2>
 > Docker |
